@@ -32,3 +32,10 @@
   display: none;
 }
 
+.text {
+  color: #fff;
+  &:hover {
+    color: #000;
+  }
+}
+
